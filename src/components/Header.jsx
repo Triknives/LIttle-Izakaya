@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from 'react-router-dom';
 
 function Header(){
-  var headerStyle = {
+  const headerStyle = {
     margin: '1vh auto',
     justifyContent:'left',
     backgroundImage: "url(https://digjapan.travel/files/topics/11997_ext_80_en_0.jpg)",
@@ -18,13 +18,12 @@ function Header(){
     alignItems: "center",
     textAlign:'center',
   }
-
-  var links = {
+  const links = {
     color: 'white',
   }
   return (
     <div style = {headerStyle}>
-    <h1>Little Izakaya</h1>
+    <div className ='pubname'>Little Izakaya</div>
     <div style = {links}>
     <Link to="/">Home</Link> | <Link to="/Ontap">Beers On Tap</Link> | <Link to="/Dishes">Dishes</Link>
     </div>
