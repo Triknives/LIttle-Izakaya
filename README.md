@@ -1,15 +1,15 @@
 
 # _TapRoom_
 
-#### _This application is designed to allow a Patron of the pub the ability to see available beverages on tap or served. This will further allow an interface for Pub Owners to edit and track the amount of product being displayed to the possible Patrons online. _
+#### _This application is designed to allow a Patron of the pub the ability to see available beverages on tap or served. This will further allow an interface for Pub Owners to edit and track the amount of product being displayed to the possible Patrons online._
 
 #### By _**Brett Cordell**_
 
 ## Description
 
-_This application is designed to allow a Patron of the pub the ability to see available beverages on tap or served. This will further allow an interface for Pub Owners to edit and track the amount of product being displayed to the possible Patrons online.
+_This application is designed to allow a Patron of the pub the ability to see available beverages on tap or served. This will further allow an interface for Pub Owners to edit and track the amount of product being displayed to the possible Patrons online._
 
-It will utilize React as the framework to allow for styling, and the "one page website" format. This portion of the project will focus on layout and styling, to later have back-end functionality added IE working forms, and editable data._
+_It will utilize React as the framework to allow for styling, and the "one page website" format. This portion of the project will focus on layout and styling, to later have back-end functionality added IE working forms, and editable data._
 
 ## Components Structure And Site Flow
 
