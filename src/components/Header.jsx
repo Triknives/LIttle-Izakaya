@@ -11,7 +11,6 @@ function Header(){
     backgroundSize: 'cover',
     padding: '1vh',
     color:'white',
-    borderRadius: '2vh',
     overflow: 'hidden',
     alignItems: "center",
     textAlign:'center',

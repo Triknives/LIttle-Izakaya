@@ -3,14 +3,16 @@ import PropTypes from "prop-types";
 
 var tapListStyle = {
   wordSpacing:'5px',
-  margin: '20px',
+  margin: '10px',
+  backgroundColor: 'black',
+  opacity:'.75',
 }
 
 function HomeUpdate(props){
   return (
   <div style = {tapListStyle}>
-    <h2>{props.date}</h2>
-    <p>{props.update}</p>
+    <h2 className ='updateText'>{props.date}</h2>
+    <p className ='updateText'>{props.update}</p>
     </div>
   );
 }

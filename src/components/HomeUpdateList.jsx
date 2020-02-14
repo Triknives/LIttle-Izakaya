@@ -7,29 +7,25 @@ var updatesStyling = {
   width: '60%',
   flexWrap: 'wrap',
   justifyContent:'center',
-  backgroundColor: 'black',
   padding: '1vh',
-  opacity: '.7',
-  borderRadius: '2vh',
-  color: 'white',
 }
 
 const homeUpdateList = [
  {
     date: "2/14/2020",
-    update: "We'd like to take a chance to say Youkoso! (welcome) to Little Izakaya, a chance to experience and taste the atomoshpere of a small Roppongi styled izakaya. Please look into our NomiHoudai option for your larger parties(up to 3 hour bookings). We will have rolling updates as we increase our offerings in Japanese beers, along with other foriegn beers, and dishes!",
+    update: "We made it! We are now officially having our grand opening! We look forward to sharing all we have learned from abroad and hope to bring you a great experience!",
  },
  {
-   date: "2/14/2020",
-   update: "We'd like to take a chance to say Youkoso! (welcome) to Little Izakaya, a chance to experience and taste the atomoshpere of a small Roppongi styled izakaya. Please look into our NomiHoudai option for your larger parties(up to 3 hour bookings). We will have rolling updates as we increase our offerings in Japanese beers, along with other foriegn beers, and dishes!",
+   date: "2/11/2020",
+   update: "We've begun hiring for staff to support demand for our delicious food! If you are looking for Part-time or Full-time work and enjoy a fast paced environment look no further! Send an e-mail to cordell.desu@gmail.com to inquire!",
  },
  {
-   date: "2/14/2020",
-   update: "We'd like to take a chance to say Youkoso! (welcome) to Little Izakaya, a chance to experience and taste the atomoshpere of a small Roppongi styled izakaya. Please look into our NomiHoudai option for your larger parties(up to 3 hour bookings). We will have rolling updates as we increase our offerings in Japanese beers, along with other foriegn beers, and dishes!",
+   date: "2/8/2020",
+   update: "Well, we finally signed the lease and we can happily share our location. You can find us at 1667 SE Bybee Blvd, Portland, OR 97202! We have some near by parking, but we suspect it will fill up fast!",
  },
  {
-   date: "2/14/2020",
-   update: "We'd like to take a chance to say Youkoso! (welcome) to Little Izakaya, a chance to experience and taste the atomoshpere of a small Roppongi styled izakaya. Please look into our NomiHoudai option for your larger parties(up to 3 hour bookings). We will have rolling updates as we increase our offerings in Japanese beers, along with other foriegn beers, and dishes!",
+   date: "2/03/2020",
+   update: "Proud to announce that we will be opening a new location in the Portland, Oregon area! Once we get the lease, we will happily share where we will be serving you!",
  }
 ];
 function HomeUpdateList(){

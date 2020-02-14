@@ -10,7 +10,6 @@ var scheduleStyle = {
   backgroundColor: 'black',
   padding: '1vh',
   opacity: '.7',
-  borderRadius: '4vh',
   color: 'white',
 }
 
