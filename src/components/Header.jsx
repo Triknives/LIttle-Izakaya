@@ -5,18 +5,17 @@ function Header(){
   const headerStyle = {
     margin: '1vh auto',
     justifyContent:'left',
-    backgroundImage: "url(https://digjapan.travel/files/topics/11997_ext_80_en_0.jpg)",
+    backgroundImage: 'url(https://digjapan.travel/files/topics/11997_ext_80_en_0.jpg)',
+    width:'60%',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     padding: '2vh',
     color:'white',
-    textShadow: '.1vh .1vh .7vh #000000',
-    borderRadius: '4vh',
-    border: '4px solid white',
+    borderRadius: '2vh',
     overflow: 'hidden',
-    width:'40%',
     alignItems: "center",
     textAlign:'center',
+    opacity:'.9',
   }
   const links = {
     color: 'white',
