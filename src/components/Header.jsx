@@ -9,7 +9,7 @@ function Header(){
     width:'60%',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
-    padding: '2vh',
+    padding: '1vh',
     color:'white',
     borderRadius: '2vh',
     overflow: 'hidden',
@@ -24,7 +24,7 @@ function Header(){
     <div style = {headerStyle}>
     <div className ='pubname'>Little Izakaya</div>
     <div style = {links}>
-    <Link to="/">Home</Link> | <Link to="/Ontap">Beers On Tap</Link> | <Link to="/Dishes">Dishes</Link>
+    <Link to="/">Home</Link> | <Link to="/TapList">Beers On Tap</Link> | <Link to="/Dishes">Dishes</Link>
     </div>
     </div>
   );
