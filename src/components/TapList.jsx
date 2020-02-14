@@ -8,47 +8,46 @@ var scheduleStyle = {
   flexWrap: 'wrap',
   justifyContent:'center',
   backgroundColor: 'black',
-  padding: '2vh',
+  padding: '1vh',
   opacity: '.7',
   borderRadius: '4vh',
   color: 'white',
-  wordSpace:'5px',
 }
 
 
 const tapList = [
  {
-    brand: "Asahi Super Dry",
+    brand: "Super Dry",
     size: "Pint",
     acontent: "4.9%",
     cost: "4.00USD"
  },
  {
-   brand: "Asahi Super Dry",
+   brand: "Super Dry",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Asahi Super Dry",
+   brand: "Super Dry",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Asahi Super Dry",
+   brand: "Super Dry",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Asahi Super Dry",
+   brand: "Super Dry",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Asahi Super Dry",
+   brand: "Super Dry",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
