@@ -1,8 +1,15 @@
 body {
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: grey;
   background-image:url(https://c.wallhere.com/photos/3b/8c/street_signs_japan_lights_evening_alley_kyoto_bokeh-904201.jpg!d);
   z-index: -1;
+}
+
+p {
+  font-size: 1.3rem;
+  font-weight: 600;
 }
 
 a {
