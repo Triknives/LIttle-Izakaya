@@ -1,5 +1,5 @@
 
-# _TapRoom_
+# _Little Izakaya_
 
 #### _This application is designed to allow a Patron of the pub the ability to see available beverages on tap or served. This will further allow an interface for Pub Owners to edit and track the amount of product being displayed to the possible Patrons online._
 
@@ -13,7 +13,8 @@ _It will utilize React as the framework to allow for styling, and the "one page 
 
 ## Components Structure And Site Flow
 
-![ComponentsFlow](https://user-images.githubusercontent.com/50305423/74554661-e9de0700-4f0e-11ea-875e-a77eb65e8c3c.png)
+![ComponentsFlow (3)](https://user-images.githubusercontent.com/50305423/74578701-0d26a780-4f4b-11ea-9240-e60dc08facb3.jpg)
+
 
 ## Setup/Installation Requirements
 
@@ -39,6 +40,6 @@ _Please reach out to Cordell.desu@gmail.com to share any issues, or concerns tha
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This application is under and MIT License*
 
 Copyright (c) 2019 **_Brett Cordell_**
