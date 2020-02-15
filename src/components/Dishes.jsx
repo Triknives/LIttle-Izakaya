@@ -2,8 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 
 var dishStyling = {
-  margin: '5px',
-  opacity:'.75',
+  wordSpacing:'5px',
+  margin: '10px',
+  backgroundColor: 'black',
+  opacity:'.85',
+  padding:'1vh',
 }
 
 function Dishes(props){

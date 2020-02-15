@@ -2,8 +2,8 @@ import React from "react";
 import Dishes from "./Dishes";
 
 var dishesStyling = {
-  margin: '1vh auto',
   display:'flex',
+  margin: '1vh auto',
   width: '60%',
   flexWrap: 'wrap',
   justifyContent:'center',
@@ -12,14 +12,22 @@ var dishesStyling = {
 
 const dishesList = [
  {
-    image: '"https://image.shutterstock.com/image-photo/chicken-karaage-black-bowl-dark-600w-1642919305.jpg"',
+    image: "https://image.shutterstock.com/image-photo/chicken-karaage-black-bowl-dark-600w-1642919305.jpg",
     name: "Karage",
-    cost: "12 USD",
+    cost: "8 USD",
     info: "A common fried chicken dish, served with tartar.",
  },
  {
-   date: "2/11/2020",
-   update: "We've begun hiring for staff to support demand for our delicious food! If you are looking for Part-time or Full-time work and enjoy a fast paced environment look no further! Send an e-mail to cordell.desu@gmail.com to inquire!",
+   image: "https://image.shutterstock.com/image-photo/deepfried-soft-chicken-bone-ball-600w-623353991.jpg",
+   name: "Nankotsu",
+   cost: "6 USD",
+   info: "Fried chicken cartilage. Goes great with Super Dry!",
+ },
+ {
+   image: "https://image.shutterstock.com/image-photo/asian-style-soup-udon-noodles-600w-1211162086.jpg",
+   name: "kake Udon",
+   cost: "9 USD",
+   info: "A very popular, and common noodle and flavoring in Japan.",
  },
 ];
 function DishesList(){
