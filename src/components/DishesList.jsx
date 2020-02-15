@@ -13,7 +13,7 @@ var dishesStyling = {
 const dishesList = [
  {
     image: "https://image.shutterstock.com/image-photo/chicken-karaage-black-bowl-dark-600w-1642919305.jpg",
-    name: "Karage",
+    name: "Karaage",
     cost: "8 USD",
     info: "A common fried chicken dish, served with tartar.",
  },
@@ -27,7 +27,7 @@ const dishesList = [
    image: "https://image.shutterstock.com/image-photo/asian-style-soup-udon-noodles-600w-1211162086.jpg",
    name: "kake Udon",
    cost: "9 USD",
-   info: "A very popular, and common noodle and flavoring in Japan.",
+   info: "A very popular, and common noodle flavoring found in Japan.",
  },
 ];
 function DishesList(){
