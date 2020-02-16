@@ -7,10 +7,11 @@ var scheduleStyle = {
   width: '60%',
   flexWrap: 'wrap',
   justifyContent:'center',
-  backgroundColor: 'black',
+  backgroundColor: 'white',
   padding: '1vh',
-  opacity: '.7',
-  color: 'white',
+  opacity: '.85',
+  color: 'black',
+  fontWeight:'600',
 }
 
 
