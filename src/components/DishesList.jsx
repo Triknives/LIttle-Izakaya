@@ -24,6 +24,12 @@ const dishesList = [
    info: "Fried chicken cartilage. Goes great with Super Dry!",
  },
  {
+   image: "https://image.shutterstock.com/image-photo/fried-cutlet-pork-vegetable-japanese-600w-631348373.jpg",
+   name: "Chicken Katsu",
+   cost: "6 USD",
+   info: "A simple and savory chicken dish.",
+ },
+ {
    image: "https://image.shutterstock.com/image-photo/asian-style-soup-udon-noodles-600w-1211162086.jpg",
    name: "kake Udon",
    cost: "9 USD",

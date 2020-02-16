@@ -7,15 +7,19 @@ var dishStyling = {
   backgroundColor: 'black',
   opacity:'.85',
   padding:'1vh',
+  height:'200px',
+  width: '350px',
 }
 
 function Dishes(props){
   return (
-  <div style = {dishStyling}>
+    <div className = "food">
     <img src= {props.image}></img>
+    <div style = {dishStyling}>
     <p className ='updateText'>{props.name}</p>
     <p className ='updateText'>{props.cost}</p>
     <p className ='updateText'>{props.info}</p>
+    </div>
     </div>
   );
 }

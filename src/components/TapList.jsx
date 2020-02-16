@@ -22,34 +22,34 @@ const tapList = [
     cost: "4.00USD"
  },
  {
-   brand: "Super Dry",
+   brand: "Sapporo Lager",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Super Dry",
+   brand: "Kirin Beer",
    size: "Pint",
    acontent: "4.9%",
    cost: "4.00USD"
  },
  {
-   brand: "Super Dry",
+   brand: "Suntory Premium",
    size: "Pint",
-   acontent: "4.9%",
+   acontent: "5.5%",
    cost: "4.00USD"
  },
  {
-   brand: "Super Dry",
+   brand: "Kirin Ichiban",
    size: "Pint",
    acontent: "4.9%",
-   cost: "4.00USD"
+   cost: "5.00USD"
  },
  {
-   brand: "Super Dry",
+   brand: "Sapporo Nama",
    size: "Pint",
    acontent: "4.9%",
-   cost: "4.00USD"
+   cost: "5.00USD"
  }
 ];
 

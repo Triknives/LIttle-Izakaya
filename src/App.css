@@ -38,3 +38,9 @@ a {
   -1px 1px 0 #000,
   1px 1px 0 #000;
 }
+
+.food img {
+  height:300px;
+  width: 400px;
+  margin:5px;
+}
