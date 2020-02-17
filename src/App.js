@@ -9,10 +9,11 @@ import './App.css';
 function App() {
   return (
     <div>
-    <Header/>
+    <Header />
     <Switch>
+      <Route exact path='/' component={HomeUpdateList} />
+      <Route exact path='/homeupdatelist' component={HomeUpdateList} />
     <Route exact path='/taplist' component={TapList} />
-    <Route exact path='/homeupdatelist' component={HomeUpdateList} />
     <Route exact path='/disheslist' component={DishesList} />
     </Switch>
     </div>
