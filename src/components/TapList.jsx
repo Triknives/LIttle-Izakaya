@@ -1,7 +1,7 @@
 import React from "react";
 import BeersOnTap from "./BeersOnTap";
 
-var scheduleStyle = {
+var drinkStyle = {
   margin: '1vh auto',
   display:'flex',
   width: '60%',
@@ -57,7 +57,7 @@ const tapList = [
 function TapList(){
 
   return (
-    <div style = {scheduleStyle}>
+    <div style = {drinkStyle}>
       {tapList.map((beersOnTap, index) =>
         <BeersOnTap brand={beersOnTap.brand}
         size={beersOnTap.size}
