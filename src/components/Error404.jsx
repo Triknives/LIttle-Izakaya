@@ -3,11 +3,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
-// const errorStyling = {
-//
-// }
-
-
 function Error404(props){
 return (
   <div>

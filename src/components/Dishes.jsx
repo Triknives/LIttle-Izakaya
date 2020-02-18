@@ -15,7 +15,9 @@ var dishStyling = {
 function Dishes(props){
   return (
     <div className = "food">
+    <div className = "zoom">
     <img src= {props.image}></img>
+    </div>
     <div style = {dishStyling}>
     <p className ='updateText'>{props.name}</p>
     <p className ='updateText'>{props.cost}</p>

@@ -1,6 +1,7 @@
 import React from "react";
 import HomeUpdate from "./HomeUpdate";
 
+
 var updatesStyling = {
   margin: '1vh auto',
   display:'flex',

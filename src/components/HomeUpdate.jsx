@@ -7,6 +7,14 @@ var tapListStyle = {
   backgroundColor: 'white',
   opacity:'.85',
 }
+function Greeting(){
+
+  return (
+    <div className ='updateText'>
+    <h3> Just testingasdfasdfasdfasfd </h3>
+    </div>
+  );
+}
 
 function HomeUpdate(props){
   return (
