@@ -2,8 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { v4 } from 'uuid';
 
-
-
 var formStyling = {
   display:'flex',
   width: '100%',
@@ -16,7 +14,6 @@ var formStyling = {
 function NewUpdateForm(props) {
   let _authors = null;
   let _postContent = null;
-
 
   function handleNewUpdateFormSubmission(event) {
     event.preventDefault();

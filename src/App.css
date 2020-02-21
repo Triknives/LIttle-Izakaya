@@ -8,11 +8,17 @@ body {
   height:100%;
 }
 
-.prompt-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 100px;
+
+button {
+  background-color: #8c6245; /* Brown*/
+  border: none;
+  color: black;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  font-size:1.1rem;
+  cursor:pointer;
 }
 
 input[type=text], select {
@@ -37,11 +43,6 @@ textarea {
   resize: none;
   margin:0 auto;
 }
-.updateText {
-  color: black;
-  font-size: 1.3rem;
-  font-weight: 600;
-}
 
 a {
   color:white;
@@ -56,8 +57,32 @@ a {
   padding: 1vh;
 }
 
+.error-page {
+  color:white;
+  font-weight: 600;
+  font-size:1.3rem;
+}
+
+.prompt-warning {
+  color: red;
+  font-weight: 600;
+  font-size:1.1rem;
+
+}
+.update-prompt {
+  font-size:1.3rem;
+  font-weight: 600;
+  color:white;
+}
+
+.updateText {
+  color: black;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
 a:hover {
-  background-color: #8c6245;
+  background-color: #8c6245; /* Brown*/
   border-radius:10px;
   opacity: .7;
 }
@@ -77,12 +102,11 @@ a:hover {
 .zoom:hover {
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 
 .food img {
   height:250px;
   width: 300px;
   color:black;
-  margin-top:40px;
 }

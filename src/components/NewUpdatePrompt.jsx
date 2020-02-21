@@ -2,19 +2,20 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 var updatesStyling = {
-  width: '60%',
+  width: '40%',
   flexWrap: 'wrap',
   justifyContent:'center',
   textAlign: 'center',
-  padding: '1vh',
   margin:'0 auto',
+  opacity: '.85',
 }
 
 function NewUpdatePrompt(props){
   return (
     <div style = {updatesStyling}>
-    <p>Create a new Site Update?</p>
-    <button onClick={props.onTroubleshootingConfirmation}>Yes</button>
+    <p className ='update-prompt'>Have a new update for the site to post?</p>
+    <p className = 'prompt-warning'>This is an ADMIN only feature!</p>
+    <button className = 'prompt-button'onClick={props.onTroubleshootingConfirmation}>Yes</button>
     </div>
   );
 }
