@@ -10,16 +10,16 @@ var tapListStyle = {
 
 function HomeUpdate(props){
   return (
-  <div style = {tapListStyle}>
-    <h2 className ='updateText'>{props.date}</h2>
-    <p className ='updateText'>{props.update}</p>
+    <div style = {tapListStyle}>
+    <h3>{props.authors}</h3>
+    <p>{props.postContent}</p>
     </div>
   );
 }
 
 HomeUpdate.propTypes = {
-  date: PropTypes.string.isRequired,
-  update: PropTypes.string.isRequired,
+  authors: PropTypes.string.isRequired,
+  postContent: PropTypes.string.isRequired,
 };
 
 

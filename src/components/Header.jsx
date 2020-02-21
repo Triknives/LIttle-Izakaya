@@ -23,7 +23,7 @@ function Header(){
     <div style = {headerStyle}>
     <div className ='pubname'>Little Izakaya</div>
     <div style = {links}>
-    <Link to="/HomeUpdateList">Home</Link> | <Link to="/TapList">Beers On Tap</Link> | <Link to="/DishesList">Dishes</Link>
+    <Link to="/">Home</Link> |  <Link to="/updates">Create Update</Link>| <Link to="/TapList">Beers On Tap</Link> | <Link to="/DishesList">Dishes</Link>
     </div>
     </div>
   );
