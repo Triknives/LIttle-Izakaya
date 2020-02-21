@@ -13,7 +13,7 @@ _It will utilize React as the framework to allow for styling, and the "one page 
 
 ## Components Structure And Site Flow
 
-![ComponentsFlow (3)](https://user-images.githubusercontent.com/50305423/74578701-0d26a780-4f4b-11ea-9240-e60dc08facb3.jpg)
+![ComponentsFlow (6)](https://user-images.githubusercontent.com/50305423/75056611-3e8ffd80-548c-11ea-9c0f-cd999c0907e1.jpg)
 
 
 ## Setup/Installation Requirements
