@@ -7,6 +7,15 @@ import Header from './components/Header'
 import Error404 from './components/Error404'
 import './App.css';
 
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      masterPostList: []
+    };
+  }
+}
+
 function App() {
   return (
     <div>
