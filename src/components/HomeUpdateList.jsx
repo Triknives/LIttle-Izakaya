@@ -15,7 +15,6 @@ var updatesStyling = {
 function HomeUpdateList(props){
   return (
     <div style = {updatesStyling}>
-    <hr/>
     {props.homeUpdateList.map((homeUpdate, index) =>
       <HomeUpdate authors={homeUpdate.authors}
       postContent={homeUpdate.postContent}
