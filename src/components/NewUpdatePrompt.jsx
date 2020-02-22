@@ -7,7 +7,6 @@ var updatesStyling = {
   justifyContent:'center',
   textAlign: 'center',
   margin:'0 auto',
-  opacity: '.85',
 }
 
 function NewUpdatePrompt(props){

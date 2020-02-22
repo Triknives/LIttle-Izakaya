@@ -14,7 +14,6 @@ function Header(){
     overflow: 'hidden',
     alignItems: 'center',
     textAlign:'center',
-    opacity:'.85',
   }
   const links = {
     color: 'white',

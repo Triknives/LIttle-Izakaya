@@ -14,7 +14,7 @@ body {
 button {
   background-color: #8c6245; /* Brown*/
   border: none;
-  color: black;
+  color: white;
   padding: 10px 27px;
   text-align: center;
   text-decoration: none;
@@ -77,8 +77,7 @@ a {
 .prompt-warning {
   color: red;
   font-weight: 600;
-  font-size:1.1rem;
-
+  font-size:1.3rem;
 }
 .update-prompt {
   font-size:1.3rem;

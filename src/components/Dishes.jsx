@@ -5,7 +5,6 @@ var dishStyling = {
   wordSpacing:'5px',
   margin: '10px',
   backgroundColor: 'white',
-  opacity:'.85',
   padding:'1vh',
   height:'160px',
   width: '280px',

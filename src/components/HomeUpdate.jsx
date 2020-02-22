@@ -5,7 +5,8 @@ var tapListStyle = {
   wordSpacing:'5px',
   margin: '10px',
   backgroundColor: 'white',
-  opacity:'.85',
+  width: '60%',
+  wordWrap: 'break-word',
 }
 
 function HomeUpdate(props){

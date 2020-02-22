@@ -9,7 +9,6 @@ var drinkStyle = {
   justifyContent:'center',
   backgroundColor: 'white',
   padding: '1vh',
-  opacity: '.85',
   color: 'black',
   fontWeight:'600',
 }
