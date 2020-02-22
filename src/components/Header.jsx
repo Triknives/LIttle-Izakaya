@@ -12,7 +12,7 @@ function Header(){
     padding: '1vh',
     color:'white',
     overflow: 'hidden',
-    alignItems: "center",
+    alignItems: 'center',
     textAlign:'center',
     opacity:'.85',
   }

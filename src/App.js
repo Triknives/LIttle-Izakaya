@@ -2,6 +2,7 @@ import React from 'react';
 import TapList from './components/TapList';
 import DishesList from './components/DishesList';
 import Header from './components/Header';
+import Footer from './components/Footer';
 import './App.css';
 import HomeUpdateList from './components/HomeUpdateList';
 import HomeUpdateControl from './components/HomeUpdateControl';
@@ -33,6 +34,7 @@ class App extends React.Component {
       <Route exact path='/disheslist' component={DishesList} />
       <Route component={Error404} />
       </Switch>
+      <Footer/>
       </div>
     );
   }
