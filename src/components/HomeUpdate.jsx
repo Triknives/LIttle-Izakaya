@@ -4,9 +4,11 @@ import PropTypes from "prop-types";
 var tapListStyle = {
   wordSpacing:'5px',
   margin: '10px',
-  backgroundColor: 'white',
   width: '60%',
   wordWrap: 'break-word',
+  backgroundColor: 'black',
+  color: 'white',
+  opacity: '.8',
 }
 
 function HomeUpdate(props){

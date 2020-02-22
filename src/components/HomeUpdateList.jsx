@@ -15,6 +15,7 @@ var updatesStyling = {
 function HomeUpdateList(props){
   return (
     <div style = {updatesStyling}>
+    <p className = 'greeting'>Welcome to Little Izakaya! We hope to bring you a small taste of a Japanese Pub or "Izakaya" with a little bit of the more popular dishes, and beers found in Kanagawa!</p>
     {props.homeUpdateList.map((homeUpdate, index) =>
       <HomeUpdate authors={homeUpdate.authors}
       postContent={homeUpdate.postContent}

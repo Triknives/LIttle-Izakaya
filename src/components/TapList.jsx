@@ -4,13 +4,14 @@ import BeersOnTap from "./BeersOnTap";
 var drinkStyle = {
   margin: '1vh auto',
   display:'flex',
-  width: '60%',
+  width: '37%',
   flexWrap: 'wrap',
   justifyContent:'center',
-  backgroundColor: 'white',
+  backgroundColor: 'black',
   padding: '1vh',
-  color: 'black',
+  color: 'white',
   fontWeight:'600',
+  opacity: '.8',
 }
 
 

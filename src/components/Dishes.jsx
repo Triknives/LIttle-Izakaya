@@ -4,12 +4,13 @@ import PropTypes from "prop-types";
 var dishStyling = {
   wordSpacing:'5px',
   margin: '10px',
-  backgroundColor: 'white',
   padding:'1vh',
   height:'160px',
   width: '280px',
-  color: 'black',
-  lineHeight:'28px'
+  lineHeight:'28px',
+  backgroundColor: 'black',
+  color: 'white',
+  opacity: '.8',
 }
 
 function Dishes(props){
