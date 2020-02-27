@@ -2,8 +2,8 @@ body {
   text-align: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: grey;
-  background-image:url(https://c.wallhere.com/photos/8c/bd/street_people_japan_night_lights_tokyo_alley_ueno-966252.jpg!d);
+  background-color: black;
+  /* background-image:url("https://c.wallhere.com/photos/8c/bd/street_people_japan_night_lights_tokyo_alley_ueno-966252.jpg!d"); */
   z-index: -1;
   height:100%;
   display: flex;
